@@ -1,4 +1,4 @@
-# [Urban University] (https://urban-university.ru/)
+# Urban University[https://urban-university.ru/]
 
 ## home-work-module-6
 Зачетная работа по модулю 6 "Терминал, git"в котроой необходимо:
