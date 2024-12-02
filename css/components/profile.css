@@ -1,0 +1,30 @@
+.profile__inner {
+  padding: 20px 0;
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 20px;
+  grid-template-areas:
+    "user-info user-contacts"
+    "user-links user-skills";
+}
+
+.profile__block {
+  border-radius: 8px;
+  border: 1px solid lightgray;
+  min-height: 300px;
+  background-color: #fff;
+}
+
+.profile__user-info {
+  grid-area: user-info;
+}
+.profile__user-links {
+  grid-area: user-links;
+}
+.profile__user-contacts {
+  grid-area: user-contacts;
+}
+.profile__user-skills {
+  grid-area: user-skills;
+}
