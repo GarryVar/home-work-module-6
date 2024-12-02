@@ -1,6 +1,8 @@
 # [Urban University](https://urban-university.ru/)
 
-## home-work-module-6
+## Игорь Варехов
+
+### home-work-module-6
 Зачетная работа по модулю 6 "Терминал, git"в котроой необходимо:
 1. Зарегистрироваться на GITHUB
 2. Создать новый репозиторий под любым названием
